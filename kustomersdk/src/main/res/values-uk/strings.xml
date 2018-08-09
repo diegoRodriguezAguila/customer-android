@@ -28,7 +28,7 @@
     <string name="com_kustomer_we_re_here_let_us_know_if_we_can_help">Ми тут, Дайте нам знати, якщо ми можемо допомогти.</string>
     <string name="com_kustomer_example">Приклад</string>
     <string name="com_kustomer_please_provide_a_message_body">Будь ласка, надайте тіло повідомлення</string>
-    <string name="com_kustomer_no_internet_message">З'єднання з Інтернетом, здається, є автономним.</string>
+    <string name="com_kustomer_no_internet_message">З\'єднання з Інтернетом, здається, є автономним.</string>
     <string name="com_kustomer_camera_permission_denied">Дозвіл камери заборонено.</string>
     <string name="com_kustomer_storage_permission_denied">Дозвіл на зберігання відхилено.</string>
     <string name="com_kustomer_authorities">влада</string>
